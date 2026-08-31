@@ -3,7 +3,7 @@
 html{scroll-behavior:smooth}
 body{font-family:Inter,Segoe UI,Arial,sans-serif;color:var(--ink);background:var(--light);line-height:1.7}
 a{text-decoration:none;color:inherit}
-.hero{min-height:620px;background:radial-gradient(circle at 80% 20%,#223c72 0,transparent 32%),linear-gradient(135deg,#080d1b,#111b33);color:var(--text);overflow:hidden}
+.hero{min-height:620px;background:linear-gradient(135deg,#5c0b16,#a51d2d,#d85c67);
 .nav{max-width:1120px;margin:auto;padding:26px 24px;display:flex;align-items:center;justify-content:space-between}
 .brand{width:44px;height:44px;border:1px solid #50658d;border-radius:50%;display:grid;place-items:center;font-weight:800}
 .nav-links{display:flex;gap:18px;font-size:13px;color:#cbd5e8}
