@@ -436,3 +436,19 @@ footer {
     font-size: 30px;
   }
 }
+.certificate-button{
+  display:inline-block;
+  margin-top:16px;
+  padding:9px 16px;
+  border:1px solid #d85c67;
+  border-radius:8px;
+  color:#d85c67;
+  font-size:14px;
+  font-weight:600;
+  transition:all .2s ease;
+}
+
+.certificate-button:hover{
+  background:#d85c67;
+  color:white;
+}
